@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAJFTQD2AJV2TJOCMA"
-  secret_key = "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"
+  access_key = #
+  secret_key = #
 }
 
 # Public Subnet
